@@ -2,3 +2,4 @@
 - 本测试工程为进行任何异常处理，请操作谨慎
 - 目前search时只能传入你认为相似度很高的图片，以便系统能正确识别，识别不出可能会导致系统奔溃
 - addFace_click中faceset_token自行修改成自己create获得的
+- 更多详细介绍，移步个人博客http://shinerio.cc/2016/12/10/%E5%9F%BA%E4%BA%8Eface++%E7%9A%84faceRecognition/
