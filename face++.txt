@@ -1,0 +1,12 @@
+***create face_set***
+{"faceset_token": "3e73a3fcc56492c707898274dd7a9827", "time_used": 129, "face_count": 0, "face_added": 0, "request_id": "1481351355,9580062b-c3af-47d9-a35e-c4e7981066cd", "outer_id": "shinerio", "failure_detail": []}
+--------------------------------------------------------------------
+***detect face****
+{"image_id": "/WeHbzLwDWf8GDL9uSTKDQ==", "request_id": "1481354666,5e7f30ff-2d29-47e0-bfe5-85e959cf2ad1", "time_used": 169, "faces": [{"face_rectangle": {"width": 106, "top": 106, "left": 49, "height": 106}, "face_token": "4fc15d5ba6b68af06c3eff3eae1619eb"}]}
+
+--------------------------------------------------------------------
+***add face to face_set***
+{"faceset_token": "3e73a3fcc56492c707898274dd7a9827", "time_used": 398, "face_count": 1, "face_added": 1, "request_id": "1481354667,c297bdda-cd5d-439e-ba66-f327d4a57fb8", "outer_id": "shinerio", "failure_detail": []}
+--------------------------------------------------------------------
+***search face***
+{"image_id": "/WeHbzLwDWf8GDL9uSTKDQ==", "faces": [{"face_rectangle": {"width": 106, "top": 106, "left": 49, "height": 106}, "face_token": "0dad0d9aa3de433e8ee47322cd1d98d7"}], "time_used": 576, "thresholds": {"1e-3": 65.3, "1e-5": 76.5, "1e-4": 71.8}, "request_id": "1481355722,07e8ef5a-0f98-4003-94eb-c281d56c1a9d", "results": [{"confidence": 96.46, "user_id": "", "face_token": "4fc15d5ba6b68af06c3eff3eae1619eb"}]}
