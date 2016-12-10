@@ -1,0 +1,4 @@
+- MainWindow.xaml.cs中api_key和api_value请改成自己注册获得的
+- 本测试工程为进行任何异常处理，请操作谨慎
+- 目前search时只能传入你认为相似度很高的图片，以便系统能正确识别，识别不出可能会导致系统奔溃
+- addFace_click中faceset_token自行修改成自己create获得的
